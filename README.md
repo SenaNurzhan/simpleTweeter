@@ -1,2 +1,2 @@
 # simpleTweeter
-simple tweeter(blog) with PHP, HTML, CSS, Bootstrap
+simple blog site like tweeter with login, logout, comment, edit, delete functions (PHP, HTML, CSS, Bootstrap)
